@@ -31,6 +31,9 @@
 <img width="1320" alt="e-commerce-app-get-category-by-id" src="https://user-images.githubusercontent.com/55717787/159204595-7e39c42d-3e9d-4737-88de-679eb2bc25d9.png">
 <img width="1335" alt="e-commerce-app-create-product" src="https://user-images.githubusercontent.com/55717787/159204619-edab7d66-2f44-4e51-b539-20ed23733be9.png">
 
+## Walk Through Video
+- [Walk Through Video](https://1drv.ms/v/s!AuncG59SV-FRgxnVYKTYjN9QQ985?e=7toefP)
+
 ## Credits
 <p>https://sequelize.org/</p>
 
