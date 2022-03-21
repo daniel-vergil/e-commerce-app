@@ -26,6 +26,11 @@
 ## Usage
 <p><p>1. Open terminal<br>2. cd to the project root directory<br>3. Run the command 'npm start'<br>4. APIs should be available to use in localhost on port 5501 </p>
 
+## Screenshots
+<img width="1321" alt="e-commerce-backend-get-tags" src="https://user-images.githubusercontent.com/55717787/159204586-363d4cc9-c8b9-4649-913c-a3fd75703e27.png">
+<img width="1320" alt="e-commerce-app-get-category-by-id" src="https://user-images.githubusercontent.com/55717787/159204595-7e39c42d-3e9d-4737-88de-679eb2bc25d9.png">
+<img width="1335" alt="e-commerce-app-create-product" src="https://user-images.githubusercontent.com/55717787/159204619-edab7d66-2f44-4e51-b539-20ed23733be9.png">
+
 ## Credits
 <p>https://sequelize.org/</p>
 
